@@ -52,9 +52,9 @@ pip install endstone_ip_tracker-0.1.0-py2.py3-none-any.whl
 | `/iplist`  | List all recorded players   | `/iplist`           | `iptracker.list`  |
 ### Example Usage
 
-![image-20250710183324806](.\img\1.png)
+![image1](./img/1.png)
 
-![image-20250710183439852](.\img\2.png)
+![image2](./img/2.png)
 
 ```bash
 # Check a specific player's IP
